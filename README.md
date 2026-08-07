@@ -158,9 +158,7 @@ Walk-forward validation achieved a mean **Spearman Rank Correlation of approxima
 ```
 ├── train.csv
 ├── test.csv
-├── sample_submission.csv
 ├── submit_1_xgb_ranker.py
-├── submission_1_xgb_ranker.csv
 └── README.md
 ```
 
