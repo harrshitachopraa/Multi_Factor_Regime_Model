@@ -2,7 +2,7 @@
 
 Predicting the next month's **relative performance of Momentum, Quality, and Value factors** using macroeconomic indicators and machine learning.
 
-> Built for a quantitative finance competition focused on tactical factor allocation and macro regime forecasting.
+\
 
 ---
 
